@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "Elastic beanstalk class which doing automation by using codepipeline";
+echo "Elastic beanstalk class which doing automation by using codepipeline by individually";
 ?>
 
 </body>
